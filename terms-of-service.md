@@ -1,56 +1,54 @@
-# Terms of Service
+---
+title: Terms of Service
+---
 
-**Last updated: October 17, 2026**
+# Terms of Service — Fábrica de Videos IA
 
-## 1. Introduction
+**Last updated:** October 18, 2026
 
-Welcome to Fábrica de Videos IA.
+These Terms govern the use of Fábrica de Videos IA ("the App"), a private desktop application operated by
+**OSI TECH**. The App is used to create videos and to publish them on the operator's own YouTube, Facebook,
+Instagram and TikTok accounts.
 
-These Terms of Service govern your access to and use of our AI-powered video creation services, tools, and related features.
+Contact: **ositech_777@yahoo.com**
 
-By accessing or using our services, you agree to these terms. If you do not agree, please do not use our services.
+## 1. Who may use the App
 
-## 2. Description of Services
+The App is a private tool for the operator's own accounts. It is not offered to the public.
 
-Fábrica de Videos IA provides tools designed to assist users in creating, editing, and preparing video content with the help of artificial intelligence.
+## 2. Third-party platforms
 
-Features may include idea generation, script writing, voice generation, visual content creation, video editing, subtitles, and content preparation for social media platforms.
+The App publishes content through official APIs. By using the App you also agree to:
 
-Features may change, be added, or be discontinued over time.
+- the **YouTube Terms of Service**: <https://www.youtube.com/t/terms>, and the
+  **Google Privacy Policy**: <https://policies.google.com/privacy>;
+- the **Meta Terms**: <https://www.facebook.com/terms.php> and **Instagram Terms of Use**:
+  <https://help.instagram.com/581066165581870>;
+- the **TikTok Terms of Service**: <https://www.tiktok.com/legal/terms-of-service>.
 
-## 3. User Responsibilities
+## 3. Content
 
-You are responsible for the content you create, upload, generate, and publish using our services.
+The operator is responsible for the content published with the App. Content must:
 
-You agree not to use our services to:
+- comply with each platform's rules and community guidelines;
+- respect third-party rights;
+- be labeled as AI-generated or altered when the platform requires it.
 
-- Violate applicable laws or regulations.
-- Infringe another person's intellectual property rights.
-- Create fraudulent, deceptive, or misleading content intended to harm others.
-- Impersonate another person without authorization.
-- Distribute malicious software or engage in unauthorized activities.
-- Violate the terms or policies of third-party platforms.
+Nothing is published without the operator's explicit confirmation in the App.
 
-You must have the necessary rights and permissions to use the content you provide.
+## 4. Privacy
 
-## 4. Artificial Intelligence Content
+How data is handled is described in our [Privacy Policy](privacy-policy).
 
-Our services may use artificial intelligence to generate or assist with text, images, audio, video, and other materials.
+## 5. No warranty
 
-AI-generated content may contain errors, inaccuracies, or unintended similarities to existing material.
+The App is provided "as is", without warranties of any kind. We are not responsible for changes, outages or
+decisions of third-party platforms.
 
-You are responsible for reviewing generated content before using or publishing it.
+## 6. Changes
 
-We do not guarantee that AI-generated content will be accurate, original, suitable for every purpose, or eligible for monetization.
+We may update these Terms. The current version is always published on this page.
 
-## 5. Intellectual Property
+## 7. Contact
 
-Our services, branding, software, and original materials may be protected by applicable intellectual property laws.
-
-You retain any rights you have in content you provide, subject to the rights of other parties.
-
-Your rights to AI-generated content depend on applicable law, the tools used, and any relevant third-party terms.
-
-You are responsible for ensuring that your use of content does
-
-Vale, ahí te lo preparo limpio para copiar y pegar.
+**ositech_777@yahoo.com**
