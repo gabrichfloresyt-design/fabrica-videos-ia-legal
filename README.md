@@ -1,5 +1,6 @@
 ---
 title: Fábrica de Videos IA
+permalink: /
 ---
 
 # Fábrica de Videos IA
