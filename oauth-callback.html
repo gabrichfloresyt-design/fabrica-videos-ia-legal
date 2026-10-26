@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Fábrica de Videos IA · volviendo a la Fábrica</title>
+<style>body{font:16px -apple-system,BlinkMacSystemFont,sans-serif;max-width:560px;margin:60px auto;padding:0 16px;color:#222;background:#fff}</style>
+</head>
+<body>
+<h2>Volviendo a la Fábrica…</h2>
+<p id="m">Un momento: se está completando la conexión con Facebook / Instagram en la Fábrica de tu Mac.</p>
+<script>
+// Página PUENTE de la Fábrica de Videos IA. Meta (app publicada) solo devuelve la autorización a una dirección https:
+// esta página la reenvía, tal cual y sin guardar nada, a la Fábrica que corre en la propia Mac (localhost). El puerto
+// va al principio de «state» («p8790-…»). Nada de esto sale del navegador de quien autoriza.
+(function () {
+  var q = new URLSearchParams(location.search);
+  var st = q.get("state") || "";
+  var m = /^p(\d{2,5})-/.exec(st);
+  var puerto = m ? m[1] : "8790";
+  if (!q.has("code") && !q.has("error")) {
+    document.getElementById("m").textContent = "Esta página solo se usa al pulsar «Conectar» en la Fábrica.";
+    return;
+  }
+  location.replace("http://localhost:" + puerto + "/oauth/callback" + location.search);
+})();
+</script>
+</body>
+</html>
